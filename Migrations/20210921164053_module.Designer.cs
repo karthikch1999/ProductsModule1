@@ -9,8 +9,8 @@ using ProductsModule1.Database;
 namespace ProductsModule1.Migrations
 {
     [DbContext(typeof(ProductDbContext))]
-    [Migration("20210921120110_intial")]
-    partial class intial
+    [Migration("20210921164053_module")]
+    partial class module
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

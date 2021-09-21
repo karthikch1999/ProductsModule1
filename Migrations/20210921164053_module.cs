@@ -2,7 +2,7 @@
 
 namespace ProductsModule1.Migrations
 {
-    public partial class intial : Migration
+    public partial class module : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
